@@ -1,0 +1,15 @@
+#map{
+    background-color: aqua;
+    display: inline-block
+}
+.row{
+    height: 50px;
+}
+
+.field{
+    height: 48px;
+    width: 48px;
+    margin: 1px;
+    background-color: aliceblue;
+    display: inline-block;
+}
